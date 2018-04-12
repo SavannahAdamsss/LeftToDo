@@ -9,7 +9,7 @@
 [ ] Web-diagrams: make a sequence diagram that describes the interactions between                         clients, servers, DNS, and databases  
 [ ] Galvanize-builder: Find an instructor to interview you about MVC and ask you                               questions
 [ ] Galvanize-gadgets: Create a car that can be filled with gas, driven around and                             record trips
-[ ] Discuss common front-end concepts: Currently there is a 404 error, so we can't                                             access this
+[ ] Discuss common front-end concepts: able to answer common javascript interview                                              questions
 [ ] Describe-stacks-and queues: Answering questions with instructor
 [ ] Describe-arrays-linked-lists: Answering questions with instructor
 [ ] Galvanize-sorting: Answering more questions
