@@ -3,6 +3,24 @@
 // Tracking the amount of work in the final push of the semester.
 
 
+
+// Bucket Five Drills:
+
+[ ] Web-diagrams: make a sequence diagram that describes the interactions between                         clients, servers, DNS, and databases  
+[ ] Galvanize-builder: Find an instructor to interview you about MVC and ask you                               questions
+[ ] Galvanize-gadgets: Create a car that can be filled with gas, driven around and                             record trips
+[ ] Discuss common front-end concepts: Currently there is a 404 error, so we can't                                             access this
+[ ] Describe-stacks-and queues: Answering questions with instructor
+[ ] Describe-arrays-linked-lists: Answering questions with instructor
+[ ] Galvanize-sorting: Answering more questions
+[ ] Puzzles: Problem solving
+[ ] Post-code-publicly: complete a project you are proud of to GitHub (easy)
+[ ] Social-media-profiles: LinkedIn (easy)
+[ ] Troll-inc-phone-screens: Phone Interview
+[ ] B5 Project: Apply to a job
+
+
+
 // Bucket Four Drills:
 
 [ ] Barkwire Pair Programming Drills
